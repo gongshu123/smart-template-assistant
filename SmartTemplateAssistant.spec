@@ -1,4 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
+# Portable PyInstaller configuration for Smart Template Assistant.
 from pathlib import Path
 
 from PyInstaller.utils.hooks import collect_submodules

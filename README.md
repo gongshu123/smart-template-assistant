@@ -64,7 +64,7 @@ python app.py
 ## 打包 EXE
 
 ```powershell
-pyinstaller --noconfirm --clean "智能套版助手.spec"
+pyinstaller --noconfirm --clean SmartTemplateAssistant.spec
 ```
 
 生成文件位于 `dist/智能套版助手.exe`。
